@@ -1,0 +1,39 @@
+.wiki-search-page {
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.wiki-search-page-main {
+	width: 100%;
+	max-width: 100%;
+	height: calc(100% - 9.6vh);
+	padding: 0;
+	margin: 0;
+}
+
+.wiki-search-page-section {
+	width: 100%;
+	max-width: 100%;
+	padding: 0 !important;
+}
+
+.search-form-section {
+	background-color: #f1f3f7;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 4rem;
+	height: 4rem;
+	max-height: 4rem;
+}
+
+.search-results-section {
+	display: flex;
+	flex-direction: column;
+	justify-content: stretch;
+	align-items: center;
+	height: 100%;
+}

@@ -1,0 +1,21 @@
+.faq-accordion {
+	width: 100%;
+}
+
+.accordion-header {
+	background-color: #62dafd;
+}
+
+.accordion-header svg {
+	color: hsl(252, 75%, 12%);
+}
+
+.accordion-details {
+	width: 100%;
+}
+
+.faq-accordion-answer {
+	width: 100%;
+	max-width: 100%;
+	padding: 0.5rem 0;
+}

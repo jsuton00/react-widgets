@@ -1,0 +1,19 @@
+.accordion-page {
+	background-color: #f1f3f7;
+	width: 100%;
+	height: 100%;
+}
+
+.accordion-page-main {
+	width: 100%;
+	height: calc(100% - 9.6vh);
+	padding: 0.5rem 0;
+}
+
+.accordion-page-content {
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	padding: 0.5rem 1rem;
+}

@@ -1,0 +1,47 @@
+.wiki-search-form {
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	min-height: 4rem;
+	height: 4rem;
+	max-height: 4rem;
+	padding: 0.5rem 1rem;
+}
+
+.wiki-search-form-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: baseline;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+
+.search-textfield-container {
+	flex-basis: 84%;
+	padding: 0.25rem 0.5rem;
+}
+
+.search-textfield {
+	border: 0.0625rem solid #fff;
+	border-radius: 1rem;
+	box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.2);
+	width: 100%;
+	padding: 0.5rem 1.5rem;
+}
+
+.search-button-container {
+	flex-basis: 16%;
+	padding: 0.25rem 0.5rem;
+}
+
+.search-button {
+	border: 0.0625rem solid #62dafd;
+	background-color: #62dafd !important;
+	border-radius: 1rem !important;
+	color: #fff !important;
+	width: 100%;
+	height: 100%;
+	padding: 0.5rem 2rem;
+}
